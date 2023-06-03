@@ -1,0 +1,4 @@
+background-image: linear-gradient(var(--color-green-light), var(--color-green-dark));
+background-repeat: no-repeat;
+height: 100%;
+background-blend-mode: luminosity;
